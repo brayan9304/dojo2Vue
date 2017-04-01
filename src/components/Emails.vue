@@ -6,6 +6,7 @@
       <!-- Agregar buscador -->
     </div>
     <div class="col-md-12">
+    <p>By:Brayan Barrientos Pabuena</p>
       <div class="">
         <table class="table table-striped table-bordered ">
           <thead>
@@ -76,7 +77,6 @@ export default {
     }
 
   },
-
 
   computed: {
     emailsFiltrados: function(){
